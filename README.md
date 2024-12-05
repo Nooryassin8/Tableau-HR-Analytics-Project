@@ -10,6 +10,8 @@ What is Attrition?
 
 - Attrition refers to the reduction in workforce due to employees leaving an organization, whether voluntarily or involuntarily. Understanding attrition is crucial for HR teams to identify trends, address challenges, and improve retention strategies.
 
+======================================================================
+
 Dataset Overview: The dataset includes the following key attributes:
 
 - Attrition: Indicates if an employee has left the organization (Yes or No).
@@ -37,6 +39,8 @@ Dataset Overview: The dataset includes the following key attributes:
 - Years In Current Role: Time spent in the current job role.
 
 - Years With Current Manager: Duration working under the current manager.
+
+======================================================================
 
 Objectives: This project aims to:
 
@@ -86,15 +90,15 @@ Clean up Process
 
 Dashboard Contents
 
-		- 1st Sheet: KPI of Employee Count, Attrition Count, Attrition Rate, Active Employees and Average Age.
+   - 1st Sheet: KPI of Employee Count, Attrition Count, Attrition Rate, Active Employees and Average Age.
+   
+   - 2nd Sheet: Attrition by Gender
     
-		- 2nd Sheet: Attrition by Gender
+    - 3rd Sheet: Department wise Attrition
     
-		- 3rd Sheet: Department wise Attrition
+    - 4th Sheet: No. of Employee by Age Group
     
-		- 4th Sheet: No. of Employee by Age Group
-    
-		- 5th Sheet: Job Satisfaction Rating
+    - 5th Sheet: Job Satisfaction Rating
     
     - 6th Sheet: Education Field wise Attrition
     
