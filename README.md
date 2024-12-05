@@ -113,4 +113,4 @@ Dashboard Contents
 
 Dashboard
 
-![HR Dashboard ]([(https://public.tableau.com/app/profile/noor.yassin/viz/HRANALYTICSDASHBOARD_17333569675990/HRANALYTICSDASHBOARD))]
+![HR Dashboard ]([https://github.com/Nooryassin8/Tableau-HR-Analytics-Project/blob/main/Screenshot%202024-12-04%20163002.png])
