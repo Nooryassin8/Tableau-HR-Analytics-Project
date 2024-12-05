@@ -44,19 +44,19 @@ Objectives
 
 This project aims to:
 
-Identify Attrition Trends
+Identify Attrition Trends:
 
 Visualize patterns in employee attrition based on various attributes such as department, job role, and age band.
 
-Analyze Key Factors
+Analyze Key Factors:
 
 Pinpoint factors contributing to employee turnover to understand potential areas for improvement.
 
-Support Decision-Making
+Support Decision-Making:
 
 Provide actionable insights for HR teams to foster better employee engagement and retention.
 
-Dashboard Features
+Dashboard Features:
 
 The Tableau dashboard includes the following visualizations:
 
@@ -75,6 +75,7 @@ Tableau Dashboard: Open the Tableau workbook file (HR_Analytics_Dashboard.twb) t
 Insights: Use the dashboard to identify trends and insights that inform HR strategies.
 
 ======================================================================
+
 Clean up Process
 
   - Open Dataset in Excel and Make a Copy of Dataset for security purpose.
@@ -99,18 +100,18 @@ Dashboard Contents
 
     1st Sheet: KPI of Employee Count, Attrition Count, Attrition Rate, Active Employees and Average Age.
     
-    2nd Sheet: Attrition by Gender 
+    2nd Sheet: Attrition by Gender
     
-    3rd Sheet: Department wise Attrition 
+    3rd Sheet: Department wise Attrition
     
-    4th Sheet: No. of Employee by Age Group 
+    4th Sheet: No. of Employee by Age Group
     
-    5th Sheet: Job Satisfaction Rating 
+    5th Sheet: Job Satisfaction Rating
     
-    6th Sheet: Education Field wise Attrition 
+    6th Sheet: Education Field wise Attrition
     
     7th Sheet: Education Field wise Attrition
 
 Dashboard
 
-![HR Dashboard ]([https://github.com/Nooryassin8/Tableau-HR-Analytics-Project/blob/main/Screenshot%202024-12-04%20163002.png])
+![HR Dashboard ](https://github.com/Nooryassin8/Tableau-HR-Analytics-Project/blob/main/Screenshot%202024-12-04%20163002.png)
