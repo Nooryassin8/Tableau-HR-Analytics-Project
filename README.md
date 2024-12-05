@@ -93,16 +93,16 @@ Dashboard Contents
    - 1st Sheet: KPI of Employee Count, Attrition Count, Attrition Rate, Active Employees and Average Age.
    
    - 2nd Sheet: Attrition by Gender
-    
-    - 3rd Sheet: Department wise Attrition
-    
-    - 4th Sheet: No. of Employee by Age Group
-    
-    - 5th Sheet: Job Satisfaction Rating
-    
-    - 6th Sheet: Education Field wise Attrition
-    
-    - 7th Sheet: Education Field wise Attrition
+   
+   - 3rd Sheet: Department wise Attrition
+   
+   - 4th Sheet: No. of Employee by Age Group
+   
+   - 5th Sheet: Job Satisfaction Rating
+   
+   - 6th Sheet: Education Field wise Attrition
+   
+   - 7th Sheet: Education Field wise Attrition
 
 Dashboard
 
