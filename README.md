@@ -105,4 +105,5 @@ Dashboard Contents
    - 7th Sheet: Education Field wise Attrition
 
 Dashboard
+[Tableau Public Profile] (https://public.tableau.com/app/profile/noor.yassin/viz/HRANALYTICSDASHBOARD_17333569675990/HRANALYTICSDASHBOARD)
 ![HR Dashboard ](https://github.com/Nooryassin8/Tableau-HR-Analytics-Project/blob/dafea1879710936838225b71238ce55f473dd13a/Screenshot%202025-08-14%20235307.png)
